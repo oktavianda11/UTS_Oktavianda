@@ -139,15 +139,15 @@ class HomeFragment : Fragment() {
         description = arrayOf(
             "Death Note",
             "Demon Slayer",
-            "Naruto",
+            "Naruto: Shippuden",
             "Demon Slayer",
             "The Promised Neverland",
             "Akame ga Kill!",
             "Demon Slayer",
-            "Naruto",
+            "Naruto: Shippuden",
             "Slayer",
             "Hunter x Hunter",
-            "Naruto",
+            "Naruto: Shippuden",
             "Detectif Conan",
             "Hunter x Hunter"
 
